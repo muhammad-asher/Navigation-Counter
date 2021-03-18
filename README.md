@@ -1,3 +1,5 @@
+![navigation-counter](https://user-images.githubusercontent.com/70090506/111609406-10e6c680-87fc-11eb-9880-b8f2f2f7daf8.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
